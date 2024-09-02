@@ -1,6 +1,6 @@
-import '../assets/css/style.css'
-import '../assets/vendor/bootstrap/css/bootstrap.min.css'
-import '../assets/vendor/bootstrap-icons/bootstrap-icons.css'
+// import '../assets/css/style.css'
+// import '../assets/vendor/bootstrap/css/bootstrap.min.css'
+// import '../assets/vendor/bootstrap-icons/bootstrap-icons.css'
 import logo from '../assets/img/logo.png'
 
 const Header = () => {
@@ -12,8 +12,6 @@ const Header = () => {
                         <img src={logo} alt="" width="50px" />
                         <h2 class="text-dark my-auto mx-3">Comunicacion Grafica</h2>
                     </a>
-
-
                     <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid" /></a>
 
                     <nav id="navbar" class="navbar order-last order-lg-0">
